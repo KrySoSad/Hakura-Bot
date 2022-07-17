@@ -6,7 +6,7 @@ from datetime import timezone, datetime
 
 
 
-TOKEN = 'OTU0OTQ5NDA1OTgxNzAwMTE4.GGEYVH.dfQcvpN8MuUxKfNQQbczPp5Hi5XU6ZdKtOlUoM'
+TOKEN = 'OTU0OTQ5NDA1OTgxNzAwMTE4.GGEYVH.dfQcvpN8MuUxKfNQQbczPp5Hi5XU6ZdKtOlUoM1'
 
 client = commands.Bot(command_prefix='h.')
 
